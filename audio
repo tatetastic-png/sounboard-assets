@@ -1,0 +1,7 @@
+git clone https://github.com/<your-username>/soundboard-assets.git
+cd soundboard-assets
+mkdir audio
+# Copy your files into audio/
+git add audio/*
+git commit -m "Add soundboard audio assets"
+git push origin main
